@@ -12,6 +12,8 @@
 * 🧠  I'm learning Web Technologies to make awesome websites
 * ⚡  I love listening to music and playing badminton and cricket.
 
+
+## Skills
 <div class="flex flex-row gap-x-4">
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" />
@@ -24,10 +26,10 @@
 <img src="https://img.shields.io/badge/Mongoose-F04D35.svg?style=for-the-badge&logo=Mongoose&logoColor=white" />
 </div>
 
+## Socials
 
-
-### Badges
-## Github Stats
+## Badges
+### Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=TanishqSharma2022&theme=lime-green" />
 
