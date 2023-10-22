@@ -1,6 +1,12 @@
 ### Hi there 👋
 
+
+### Badges
+## Github Stats
+
 <img src="https://github-readme-stats.vercel.app/api?username=TanishqSharma2022&theme=blue-green" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqSharma2022&theme=blue-green" /> 
 
 
 <!--
