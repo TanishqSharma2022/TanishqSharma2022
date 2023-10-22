@@ -2,15 +2,15 @@
 
 <h1>I am Tanishq Sharma </h1>
 
-<h2>Web Developer</h2>
+<h2>Web Developer :shipit: </h2>
 
 <p>I have been coding since a year and is specialized in HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, mongoose, MongoDB and still learning. I am an undergraduate at IISER, Bhopal currently studing Maths and Data Science.</p>
 
-* 🌍  I'm based in Bhopal / Lucknow
-* 🖥️  See my portfolio at [tanishqsharma.github.io](https://tanishqsharma.github.io)
+* 🇮🇳   I'm based in Bhopal / Lucknow 
+* 💻   See my portfolio at [tanishqsharma.github.io](https://tanishqsharma.github.io)
 * ✉️  You can contact me at [tanishq22@iiserb.ac.in](mailto:tanishq22@iiserb.ac.in)
 * 🧠  I'm learning Web Technologies to make awesome websites
-* ⚡  I love listening to music and playing badminton and cricket.
+* 🎹  I love listening to music and playing badminton and cricket.
 
 
 ## Skills
