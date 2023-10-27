@@ -39,9 +39,9 @@
 
 <h2>Socials</h2>
 <div>
-<a href="https://in.linkedin.com/in/tanishq-sharma-iiser"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px" /></a>
+<a target="_blank" href="https://in.linkedin.com/in/tanishq-sharma-iiser"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px" /></a>
 
-<a href="https://www.instagram.com/itsmetanishq____/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="icon | Instagram" width="40px" /></a>
+<a target="_blank" href="https://www.instagram.com/itsmetanishq____/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="icon | Instagram" width="40px" /></a>
 
 </div>
 <br>
