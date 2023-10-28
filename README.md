@@ -56,4 +56,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=TanishqSharma2022&theme=lime-green" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqSharma2022&theme=lime-green" /> 
+
+
+<img src="https://streak-stats.demolab.com/?user=tanishqsharma2022" />
+
 </div>
