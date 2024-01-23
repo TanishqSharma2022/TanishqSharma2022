@@ -53,11 +53,14 @@
 <h2>Badges</h2>
 <p><b>📈Github Stats</b></p>
 <div align="bottom" style="display: grid; grid-template-colums: 2; align-items: top; ">
-<img src="https://github-readme-stats.vercel.app/api?username=TanishqSharma2022&theme=lime-green" />
+
+
+![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsharma2022&show_icons=true&theme=radical)
+<!--<img src="https://github-readme-stats.vercel.app/api?username=TanishqSharma2022&theme=lime-green" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqSharma2022&theme=lime-green" /> 
 
 
-<img src="https://streak-stats.demolab.com/?user=tanishqsharma2022" />
+<img src="https://streak-stats.demolab.com/?user=tanishqsharma2022" /> -->
 
 </div>
