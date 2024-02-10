@@ -12,7 +12,7 @@
 * 💻   See my portfolio at [tanishqsharma.github.io](https://TanishqSharma2022.github.io/tanishqsharma)
 * ✉️  You can contact me at [tanishq22@iiserb.ac.in](mailto:tanishq22@iiserb.ac.in)
 * 🧠  I'm learning Web Technologies to make awesome websites
-* 🎹  I love listening to music and playing badminton and cricket.
+* 🎹  I love listening to music.
 
 
 ## 🔭 I'm currently working on
