@@ -17,10 +17,12 @@
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- ECommerce-TShirt Shopping Website (NextJS)
+- A Quantum Computing Lab Website
+- A Science Blogging website
+- My own Portfolio
+- An E-Commerce Website
 - My UI skills
-- iOS/Mac App Development (Swift)
+- My React Skills
 
 
 <h2>💼 Skills</h2>
