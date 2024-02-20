@@ -17,11 +17,11 @@
 
 ## 🔭 I'm currently working on
 
-- A Quantum Computing Lab Website
-- A Science Blogging website
+- A Quantum Computing Lab Website - Qucis
+- A Science Blogging website - Chrysalis
 - My own Portfolio
 - An E-Commerce Website
-- My UI skills
+- Exploring Data Science And Generative AI
 - My React Skills
 
 
