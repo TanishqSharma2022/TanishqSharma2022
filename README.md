@@ -11,18 +11,15 @@
 * 🇮🇳   I'm based in Bhopal / Lucknow 
 * 💻   See my portfolio at [tanishqsharma.github.io](https://TanishqSharma2022.github.io/tanishqsharma)
 * ✉️  You can contact me at [tanishq22@iiserb.ac.in](mailto:tanishq22@iiserb.ac.in)
-* 🧠  I'm learning Web Technologies to make awesome websites
+* 🧠  I'm learning Web Technologies and Deep Learning Models.
 * 🎹  I love listening to music.
 
 
 ## 🔭 I'm currently working on
 
-- A Quantum Computing Lab Website - Qucis
-- A Science Blogging website - Chrysalis
 - My own Portfolio
-- An E-Commerce Website
-- Exploring Data Science And Generative AI
-- My React Skills
+- Exploring Deep Learning models for Single Image Super-Resolution
+- Making a PDF Viewer with custom functionality and storage
 
 
 <h2>💼 Skills</h2>
