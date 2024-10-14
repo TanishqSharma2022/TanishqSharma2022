@@ -17,9 +17,8 @@
 
 ## 🔭 I'm currently working on
 
-- My own Portfolio
 - Exploring Deep Learning models for Single Image Super-Resolution
-- Making a PDF Viewer with custom functionality and storage
+- Making my own UI Library - [ZenithUI](www.uizenith.vercel.app)
 
 
 <h2>💼 Skills</h2>
