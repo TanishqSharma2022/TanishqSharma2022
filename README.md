@@ -18,7 +18,7 @@
 ## 🔭 I'm currently working on
 
 - Exploring Deep Learning models for Single Image Super-Resolution
-- Making my own UI Library - [ZenithUI](www.uizenith.vercel.app)
+- Making my own UI Library - [ZenithUI](https://www.uizenith.vercel.app)
 
 
 <h2>💼 Skills</h2>
