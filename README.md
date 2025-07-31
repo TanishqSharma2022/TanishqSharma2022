@@ -1,56 +1,87 @@
 ### Hi there 👋
 
+# I am Tanishq Sharma
 
+## 🚀 Web Developer | 📊 Data Science Enthusiast | 🎓 BS at IISER Bhopal
 
-<h1>I am Tanishq Sharma </h1>
+I'm passionate about using data, mathematics, and technology to solve real-world problems. With hands-on experience in web development, modern frameworks, and deep learning, I specialize in creating seamless web experiences and conducting impactful research in super-resolution and climate AI.
 
-<h2>:shipit: Web Developer  </h2>
+---
 
-<p>I have been coding since a year and is specialized in HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS, mongoose, MongoDB and still learning. I am an undergraduate at IISER, Bhopal currently studing Maths and Data Science.</p>
+📍 **Based in:** Bhopal / Lucknow, India  
+💼 **Portfolio:** [tanishqsharma.github.io](https://TanishqSharma2022.github.io/tanishqsharma)  
+📧 **Email:** [tanishq22@iiserb.ac.in](mailto:tanishq22@iiserb.ac.in)  
+💬 **LinkedIn:** [linkedin.com/in/tanishq-sharma-iiser](https://linkedin.com/in/tanishq-sharma-iiser)  
+💻 **GitHub:** [tanishqsharma2022](https://github.com/tanishqsharma2022)
 
-* 🇮🇳   I'm based in Bhopal / Lucknow 
-* 💻   See my portfolio at [tanishqsharma.github.io](https://TanishqSharma2022.github.io/tanishqsharma)
-* ✉️  You can contact me at [tanishq22@iiserb.ac.in](mailto:tanishq22@iiserb.ac.in)
-* 🧠  I'm learning Web Technologies and Deep Learning Models.
-* 🎹  I love listening to music.
+---
 
+## 🔭 Current Work
 
-## 🔭 I'm currently working on
+- 🧠 Research on Deep Learning for Precipitation Downscaling
+- ⚛️ Developer at [Agnitech Forge](https://agnitech-forge.vercel.app) – Graphene Product Startup Website
+- 🧩 Building a personal React component library: [Zenith UI](https://uizenith.vercel.app)
+- 📝 Co-author of **PrecipFormer**, accepted at WACV 2025 GeoCV Workshop
 
-- Exploring Deep Learning models for Single Image Super-Resolution
-- Making my own UI Library - [ZenithUI](https://uizenith.vercel.app)
+---
 
+## 💼 Technical Skills
 
-<h2>💼 Skills</h2>
-<div class="flex flex-row gap-x-4">
-<img src="https://skillicons.dev/icons?i=git,github,c,html,css,js,nodejs,materialui,vscode,postman,react,ts,nextjs,figma&perline=14" />
+**Languages**: HTML, CSS, JavaScript, TypeScript, C, Python, SQL  
+**Frameworks**: React.js, Next.js, Express.js, TailwindCSS, Flask, FastAPI  
+**Databases**: MongoDB, Supabase, MySQL  
+**Libraries**: Mongoose, Prisma, Scikit-learn, OpenCV, PyTorch, GeoPandas, NetCDF, Pandas, Matplotlib  
+**Tools**: Git, GitHub, Postman, Vercel, Shopify, Figma
 
-</div>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,figma,vscode,postman,mongodb,mysql,python&perline=8" />
 
-<h2>Socials</h2>
-<div>
-<a target="_blank" href="https://in.linkedin.com/in/tanishq-sharma-iiser"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="icon | LinkedIn" width="40px" /></a>
+---
 
-<a target="_blank" href="https://www.instagram.com/itsmetanishq____/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="icon | Instagram" width="40px" /></a>
+## 🧠 Projects & Research Highlights
 
-</div>
-<br>
-<br>
-<br>
+- **PrecipFormer**: Efficient Transformer for Precipitation Downscaling – [WACV 2025 Paper](https://openaccess.thecvf.com/content/WACV2025W/GeoCV/papers/Kumar_PrecipFormer_Efficient_Transformer_for_Precipitation_Downscaling_WACVW_2025_paper.pdf)
+- **RainNet-based SR Models**: Implemented SRCNN, SRResNet from scratch on climate data.
+- **Zenith UI**: UI component library for fast React dev – [Site](https://uizenith.vercel.app)
+- **Document Keeper**: Personal document cloud with highlights and annotations.
+- **E-Commerce Platform**: Built with Next.js, MongoDB, Stripe for IISER merch sales.
+- **Van Vihar App**: Flutter quiz + Next.js dashboard, showcased to VanMela Governor.
+- **HEp-2 Cell Classification**: Biomedical image classification research – [GitHub](https://github.com/TanishqSharma2022/HEp2-Cell-Classification-Survey)
+- **DeepFake Face Detection**: ML classifiers on facial forgery detection – [Report](https://github.com/TanishqSharma2022/FakeFaceDetection/blob/master/Project_Report.pdf)
 
+---
 
+## 🎓 Education
 
-<h2>Badges</h2>
-<p><b>📈Github Stats</b></p>
-<div align="bottom" style="display: grid; grid-template-colums: 2; align-items: top; ">
+**Indian Institute of Science Education and Research (IISER) Bhopal**  
+BS in Data Science and Engineering (2022–Present)  
+CGPA: 7.4  
 
+---
+
+## 📚 Relevant Coursework
+
+Data Structures • Linear Algebra • Machine Learning • Deep Learning • NLP • AI • Discrete Math • Signals & Systems • Computer Vision
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
 
 ![Tanishq's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanishqsharma2022&show_icons=true&theme=radical)
-<!--<img src="https://github-readme-stats.vercel.app/api?username=TanishqSharma2022&theme=lime-green" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqSharma2022&theme=lime-green" /> 
-
-
-<img src="https://streak-stats.demolab.com/?user=tanishqsharma2022" /> -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanishqsharma2022&layout=compact&theme=radical) -->
+<!-- ![Streak Stats](https://streak-stats.demolab.com/?user=tanishqsharma2022) -->
 
 </div>
+
+---
+
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-sharma-iiser)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsmetanishq____)
+
+---
+
+### 🎧 Hobbies: Music, Tech Blogs, and Building Things That Matter
+
