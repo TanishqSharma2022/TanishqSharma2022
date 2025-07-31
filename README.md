@@ -2,26 +2,27 @@
 
 # I am Tanishq Sharma
 
-## 🚀 Web Developer | 📊 Data Science Enthusiast | 🎓 BS at IISER Bhopal
+## 🚀 Web Developer | 📊 Data Science Enthusiast | 🎓 BS Data Science at IISER Bhopal
 
 I'm passionate about using data, mathematics, and technology to solve real-world problems. With hands-on experience in web development, modern frameworks, and deep learning, I specialize in creating seamless web experiences and conducting impactful research in super-resolution and climate AI.
 
 ---
 
 📍 **Based in:** Bhopal / Lucknow, India  
-💼 **Portfolio:** [tanishqsharma.github.io](https://TanishqSharma2022.github.io/tanishqsharma)  
+💼 **Portfolio:** [tanishqsharma.vercel.app](https://tanishqsharma.vercel.app)  
 📧 **Email:** [tanishq22@iiserb.ac.in](mailto:tanishq22@iiserb.ac.in)  
 💬 **LinkedIn:** [linkedin.com/in/tanishq-sharma-iiser](https://linkedin.com/in/tanishq-sharma-iiser)  
 💻 **GitHub:** [tanishqsharma2022](https://github.com/tanishqsharma2022)
 
 ---
 
-## 🔭 Current Work
+## 🔭 Currently Working on
 
-- 🧠 Research on Deep Learning for Precipitation Downscaling
-- ⚛️ Developer at [Agnitech Forge](https://agnitech-forge.vercel.app) – Graphene Product Startup Website
-- 🧩 Building a personal React component library: [Zenith UI](https://uizenith.vercel.app)
-- 📝 Co-author of **PrecipFormer**, accepted at WACV 2025 GeoCV Workshop
+- 🧠 **Unsupervised Domain Adaptation for Super-Resolution**  
+  Adapting SRResNet trained on RainNet (USA) to the Himalayan region using adversarial feature alignment and perceptual loss — targeting unpaired climate downscaling without high-resolution labels.
+- 🤖 **Building a Custom AI Agent**  
+  Developing an intelligent AI assistant that can autonomously perform tasks like data fetching, document summarization, and pipeline execution — inspired by frameworks like LangChain and AutoGen.
+
 
 ---
 
@@ -33,7 +34,7 @@ I'm passionate about using data, mathematics, and technology to solve real-world
 **Libraries**: Mongoose, Prisma, Scikit-learn, OpenCV, PyTorch, GeoPandas, NetCDF, Pandas, Matplotlib  
 **Tools**: Git, GitHub, Postman, Vercel, Shopify, Figma
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,git,github,figma,vscode,postman,mongodb,mysql,python&perline=8" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,react,nextjs,nodejs,tailwind,git,github,figma,vscode,postman,mongodb,mysql,python,pytorch,sklearn,opencv,fastapi,supabase,firebase&perline=8" />
 
 ---
 
@@ -52,9 +53,9 @@ I'm passionate about using data, mathematics, and technology to solve real-world
 
 ## 🎓 Education
 
-**Indian Institute of Science Education and Research (IISER) Bhopal**  
+**Indian Institute of Science Education and Research (IISER), Bhopal**  
 BS in Data Science and Engineering (2022–Present)  
-CGPA: 7.4  
+CGPA: 7.55  
 
 ---
 
@@ -78,8 +79,7 @@ Data Structures • Linear Algebra • Machine Learning • Deep Learning • NL
 
 ## 🌐 Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanishq-sharma-iiser)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/itsmetanishq____)
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://linkedin.com/in/tanishq-sharma-iiser)[<img src="https://skillicons.dev/icons?i=instagram" />](https://instagram.com/itsmetanishq____)  
 
 ---
 
